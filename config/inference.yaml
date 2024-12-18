@@ -1,0 +1,9 @@
+inference_settings:
+  classfication: 24 #总共分类的个数
+  test_data_path: ./data/test/Ginsenoside/hybird_5 # 推理端到端文件路径
+  model_path: ./models/S2SFocalLoss512BinwithBN/93epochs_accuracy0.9332_weights.pth # 模型参数路径
+  gpu: 3   # 指定GPU
+  save_result_path: ./result/inference_PQ2_2.xlsx # 所有结果保存路径
+  save_result_detail_path: ./result/inference_detail_PQ2_2.xlsx
+
+

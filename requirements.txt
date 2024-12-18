@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+pyyaml
+tqdm
+numpy
+lmfit
+scipy
+matplotlib
+seaborn
+tensorboardx
+transformers
+pymongo
+pyabf
+tensorboard
+pytorch
